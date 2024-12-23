@@ -1,0 +1,2 @@
+main:
+	gcc -g main.c prompt.c display.c inputcomm.c warp.c proclore.c pastevents.c foreground.c peek.c seek.c backgorund.c bg_process.c activities.c set_signals.c fg_bg.c rawmode.c man_page.c neonate.c pipes_io.c -lm

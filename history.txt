@@ -1,0 +1,15 @@
+echo "Lorem Ipsum" | wc | sed 's/ //g'
+cat a.txt
+clear
+cat a.txt
+clear
+cat < a.txt | wc | cat > b.txt
+echo "Hello World" | wc
+clear
+warp ..
+clear
+peek ; warp
+clear
+echo "Hello Lorem" | wc
+clear
+echo "Lorem Epsum" | wc
