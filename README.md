@@ -1,8 +1,5 @@
-# Description
-
-# Linux Shell Replica
-
-This project is a comprehensive replication of a Unix-like shell, also known as a command-line interface or terminal. It closely emulates the behavior and appearance of traditional shells while extending their capabilities with a range of features.
+# Bash shell implemented in C language
+This project is a simple and basic command-line interface (CLI) that mimics a Unix-like shell, replicating essential features of traditional shells like Bash. It allows users to interact with the system using various commands and offers functionality like directory navigation, file listing, searching for files, managing processes, and more.
 
 ## Prompt
 
